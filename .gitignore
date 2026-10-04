@@ -1,0 +1,17 @@
+# Arquivos temporários do Power BI
+*.pbitmp
+*.tmp
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de sistema
+.DS_Store
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos de log
+*.log
